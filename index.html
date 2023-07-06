@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="keywords" content="HTML, CSS, JavaScript" />
+    <meta name="author" content="Muhammad Faisal Kemal" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mango Fruit Store</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/responsive.css"/>
+    <link
+      rel="icon"
+      href="https://raw.githubusercontent.com/mfaisalkemal/revou-barcelona/main/image/mango-icon.png"
+      type="image/x-icon"
+    />
+</head>
+<body>
+  
+  <div class="welcome">
+    <h1>Welcome</h1>
+  </div>
+
+  <script>
+    
+  </script>
+  
+  <nav>
+    
+    <ul class="desktop">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+  
+    <p>Dark Mode</p>
+    <label class="switch">
+      <input
+      id="checkbox-dark-mode"
+      onchange="toggleDarkMode()"
+      type="checkbox"
+      />
+      <span class="slider round"></span>
+    </label>
+
+  <span class="relative-container">
+    <img class="icon"
+      src="https://raw.githubusercontent.com/mfaisalkemal/revou-barcelona/main/image/mango-icon.png" alt="Mango Icon"
+    />
+  </span>
+    
+  <div class="hamburger-menu">
+    <input id="menu__toggle" type="checkbox" />
+    <label class="menu__btn" for="menu__toggle">
+      <span></span>
+    </label>
+
+    <ul class="menu__box">
+      <li><a class="menu__item" href="#">Home</a></li>
+      <li><a class="menu__item" href="#">About</a></li>
+      <li><a class="menu__item" href="#">Contact</a></li>
+    </ul>
+  </div>
+      
+  </nav>
+  
+  <header class="full-screen" id="header">
+      <h1>Mango Fruit Store</h1>
+      <h2>Welcome to Indonesia mango fruit store</h2>
+  </header>
+
+	<main>
+		<section id="mango-photos">
+			<h2>Mango Varieties</h2>
+			<div class="grid-container">
+          <div class="mango-photo-item" id="item-1">
+            <img
+              src="https://raw.githubusercontent.com/mfaisalkemal/revou-barcelona/main/image/mangga-arumanis.webp"
+              alt="Arumanis Mango"
+            />
+          </div>
+        <div class="mango-photo-item" id="item-2">
+            <img
+              src="https://raw.githubusercontent.com/mfaisalkemal/revou-barcelona/main/image/mangga-gedong.webp"
+              alt="Gedong Mango"
+              />
+        </div>
+          <div class="mango-photo-item" id="item-3">
+            <img
+              src="https://raw.githubusercontent.com/mfaisalkemal/revou-barcelona/main/image/mangga-manalagi.webp"
+              alt="Manalagi Mango "
+              />
+          </div>
+        <div class="mango-photo-item" id="item-4">
+            <img
+              src="https://raw.githubusercontent.com/mfaisalkemal/revou-barcelona/main/image/mangga-alpuket.webp"
+              alt="Alpuket Mango "
+              />
+        </div>
+        <div class="mango-photo-item" id="item-4">
+          <img
+            src="https://raw.githubusercontent.com/mfaisalkemal/revou-barcelona/main/image/mango-garifta.webp"
+            alt="Garifta Mango"
+            />
+      </div>
+      </div>
+		</section>
+		
+    <section id="mango-benefits">
+      <h2>Health Benefits of Mango</h2>
+      <div class="flex-container">
+        <ul>
+          <li>Prevents cancer</li>
+          <li>Control blood pressure</li>
+          <li>Gives relief from anemia</li>
+          <li>Cures acne and slows aging process</li>
+          <li>Boost immunity and brain health</li>
+          <li>Helps in pregnancy</li>
+        </ul>
+        <figure>
+          <picture>
+            <source
+              media="(max-width: 480px)"
+              srcset="https://raw.githubusercontent.com/mfaisalkemal/revou-barcelona/main/image/delicious-mango-mobile.webp"
+            />
+            <img
+              src="https://raw.githubusercontent.com/mfaisalkemal/revou-barcelona/main/image/delicious-mango.webp"
+              alt="Delicious mango on the plate"
+            />
+          </picture>
+
+          <figcaption>Delicious mango on the plate.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+		<section id="section-video">
+			<h2>How to Cut a Mango: 3 Ways!</h2>
+			<div class="flex-container">
+				<iframe
+					width="420" height="345" src="https://www.youtube.com/embed/gsfEKiP1lzM"
+          title="How to Cut a Mango: 3 Ways!">
+				</iframe>
+        </div>
+		</section>
+	
+        <section id="form-section">
+        <h2 class="main1">Register</h2>
+        <form action="#">
+          <fieldset>
+            <legend>Personal Data:</legend>
+            <div>
+              <label for="fullName">Full Name:</label>
+              <input id="fullName" type="text" required />
+            </div>
+
+            <div>
+              <label for="email">Email:</label>
+              <input id="email" type="email" required />
+            </div>
+            <div>
+              <label for="birthday">Birthday:</label>
+              <input type="date" id="birthday" name="birthday">
+            </div>
+			<div>
+				<label  for="region">Your Region</label>
+					<select id="form-signup-region" name="region">
+						<option class="form-signup-option" value="asia">Asia</option>
+						<option class="form-signup-option" value="africa">Africa</option>
+						<option class="form-signup-option" value="central america">Central America</option>
+						<option class="form-signup-option" value="north america">North America</option>
+                        <option class="form-signup-option" value="south america">South America</option>
+                        <option class="form-signup-option" value="europe">Europe</option>
+                        <option class="form-signup-option" value="oceania">Oceania</option>
+                        <option class="form-signup-option" value="the caribbean">The Caribbean</option>
+					</select>
+				</div>
+            <div>
+              <p>Are you Indonesia citizen?</p>
+              <input type="radio" id="yes" name="isIndonesia" value="Male" />
+              <label for="yes">Yes</label>
+              <input type="radio" id="no" name="isIndonesia" value="Female" />
+              <label for="no">No</label>
+            </div>
+          </fieldset>
+          <fieldset>
+            <legend>Additional information:</legend>
+            <div>
+              <p>What is your favorite mango?</p>
+              <input
+                id="Arumanis"
+                type="checkbox"
+                name="varieties"
+                value="Arumanis"
+              />
+              <label for="arumanis">Arumanis</label>
+              <input
+                id="Gedong"
+                type="checkbox"
+                name="varieties"
+                value="Gedong"
+              />
+              <label for="gedong">Gedong</label>
+              <input
+                id="Manalagi"
+                type="checkbox"
+                name="varieties"
+                value="Manalagi"
+              />
+              <label for="manalagi">Manalagi</label>
+			        <input
+                id="Alpukat"
+                type="checkbox"
+                name="varieties"
+                value="Alpukat"
+              />
+              <label for="alpukat">Alpuket</label>
+              <input
+                id="Garifta"
+                type="checkbox"
+                name="varieties"
+                value="Garifta"
+              />
+              <label for="garifta">Garifta</label>
+            </div>
+            <div>
+              <p>Tell us what mango varieties you interest to buy!</p>
+              <textarea rows="3"></textarea>
+            </div>
+            <div>
+              <p>Upload your profile picture here:</p>
+              <input
+                type="file"
+                id="photo"
+                name="myProfilePicture"
+                required
+                accept="image/png, image/jpeg, image/webp"
+              />
+            </div>
+          </fieldset>
+          <button type="submit">Submit</button>
+        </form>
+      </section>
+    </main>
+	<footer>Created by Muhammad Faisal Kemal &copy; 2023</footer>
+  <script src="index.js"></script>
+</body>
+</html>
