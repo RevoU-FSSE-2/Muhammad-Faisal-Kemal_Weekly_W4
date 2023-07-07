@@ -10,14 +10,26 @@ This week topic is my documentation about:
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/1.webp)
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/2.webp)
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/3.webp)
-3. input account information and choose register
+2. input account information and choose register
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/3a.webp)
-4. choose domain, choose search & check domain, and choose desired domain name
+3. choose domain, choose search & check domain, and choose desired domain name
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/4.webp)
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/5.webp)
-7. choose paying method, complete account information and pay
+4. choose paying method, complete account information and pay
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/6.webp)
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/7.webp)
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/8.webp)
+
+# Register And Setting Cloudflare
+1. choose signup, input email, password and choose signup
+   ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/9.webp)
+   ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/10.webp)
+2. input domain name and choose add site
+   ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/11.webp)
+4. choose free plan, edit nameserver on niagahoster with nameserver on cloudflare
+   ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/12.webp)
+   ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/13.webp)
+   ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/14.webp)
+   ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/15.webp)
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/isPhTOcA)
