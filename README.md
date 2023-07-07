@@ -5,7 +5,7 @@ This week topic is my documentation about:
 3. register cloudflare, change nameserver on niagahoster with cloudflare nameserver and add record of niagahoster on cloudflare
 4. add domain of niagahoster on netlify so we can access netlify link with personal domain
 
-My domain can be access at 'https://mfaisalkemal.site/'
+My domain can be access at https://mfaisalkemal.site/
 
 # Register And Buying Domain
 1. Choose login, choose login with google and choose your google email
