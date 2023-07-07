@@ -12,9 +12,9 @@ This week topic is my documentation about:
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/3.webp)
 3. input account information and choose register
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/3a.webp)
-4. choose domain and choose search, check domain, and choose desired domain name
+4. choose domain, choose search & check domain, and choose desired domain name
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/4.webp)
-   ![[(https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/5.webp)
+   ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/5.webp)
 7. choose paying method, complete account information and pay
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/6.webp)
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/7.webp)
