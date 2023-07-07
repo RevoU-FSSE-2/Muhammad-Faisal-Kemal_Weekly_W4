@@ -40,20 +40,20 @@ My domain can be access at https://mfaisalkemal.site/
 2. choose deploy with github
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/17.webp)
 3. choose the project and deploy
-4. ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/18.webp)
-5. copy link adress of netlify deployment
-6. ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/19.webp)
-7. after cloudflare finish connect to niagahoster choose dns on left sidebar
-8. ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/20.webp)
-9. add first record with type cname @ and target with netlify link deployement
-    add second record with type cname www and target with domain name
+    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/18.webp)
+4. copy link adress of netlify deployment
+   ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/19.webp)
+5. after cloudflare finish connect to niagahoster choose dns on left sidebar
+  ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/20.webp)
+6. add first record with type cname @ and target with netlify link deployement
+   add second record with type cname www and target with domain name
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/21.webp)
    ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/21.webp)
-10. go to netlify domain setting and choose add domain and input domain name
+7. go to netlify domain setting and choose add domain and input domain name
     ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/22.webp)
     ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/23.webp)
     ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/24.webp)
-11. link of netlify now can be access with domain buy from niagahoster
+8. link of netlify now can be access with domain buy from niagahoster
     ![](https://raw.githubusercontent.com/mfaisalkemal/RevoU_SEFS_Scholarship/main/gambar/week4/25.webp)
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/isPhTOcA)
